@@ -1,3 +1,4 @@
+![q baldwin](https://user-images.githubusercontent.com/90271142/132382784-84de133a-09e2-4f3d-b135-ba36c123d764.jpg)
 # Quinesha Baldwin
 
 
