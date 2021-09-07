@@ -1,7 +1,6 @@
-![q baldwin](https://user-images.githubusercontent.com/90271142/132382784-84de133a-09e2-4f3d-b135-ba36c123d764.jpg)
 # Quinesha Baldwin
 
-
+![q baldwin](https://user-images.githubusercontent.com/90271142/132382784-84de133a-09e2-4f3d-b135-ba36c123d764.jpg)
 
 If you ever have any questions about Markdown syntax, feel free to reference the documentation here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
