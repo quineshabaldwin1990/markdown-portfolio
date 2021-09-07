@@ -9,3 +9,5 @@
     * I'm a Navy Vet
     
 1. I will pass this class this time!
+
+I love to play **basketball** and __spades__.
